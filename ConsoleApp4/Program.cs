@@ -9,7 +9,8 @@ namespace ConsoleApp2
 
         static void Main(string[] args)
         {
-            string enviaCorreos = "";
+            string enviaCorreos = string.Empty;
+
             Console.WriteLine("Desea enviar un correo elecromico ?");
             enviaCorreos = Console.ReadLine();
             if(enviaCorreos == "si")

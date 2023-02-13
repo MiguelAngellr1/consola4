@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N+hFyVmQ3P1xruhbJiQV1207vaUouKVtfXVd69b/H1o1wiq+ykrIdZ0Bji3wbs2rAxJqvsNpUweysOQqvjqRPA==",
+  "dgSpecHash": "Bv2O3rX0tNX+1nYtDN4w8TV+bCIFwL82kAST596RFZ0I4XO3PM4FucukDn6DFBi5IT/1k7nzmx4+Y9Am1CHHLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miguel Angel\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "projectFilePath": "C:\\Dev\\consola4\\ConsoleApp4\\ConsoleApp4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miguel Angel\\.nuget\\packages\\mailkit\\3.5.0\\mailkit.3.5.0.nupkg.sha512",
     "C:\\Users\\Miguel Angel\\.nuget\\packages\\mimekit\\3.5.0\\mimekit.3.5.0.nupkg.sha512",
