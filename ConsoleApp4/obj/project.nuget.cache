@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+hFyVmQ3P1xruhbJiQV1207vaUouKVtfXVd69b/H1o1wiq+ykrIdZ0Bji3wbs2rAxJqvsNpUweysOQqvjqRPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Angel\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\mailkit\\3.5.0\\mailkit.3.5.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\mimekit\\3.5.0\\mimekit.3.5.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
